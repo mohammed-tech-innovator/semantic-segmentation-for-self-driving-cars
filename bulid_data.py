@@ -192,18 +192,6 @@ class Data :
 
 
 		return
-
-
-
-
-
-
-					 
-     
-
-
-
-
 	 
 
 d = Data()
