@@ -25,3 +25,17 @@ created from five different virtual worlds under various weather and image condi
 The dataset was designed to train and evaluate models for different computer vision tasks
 including semantic segmentation. Images below are some examples from the dataset for
 Different shots of various images and weather conditions of the same view.
+
+# Results
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/96c6dd82-8fdd-4224-8197-25bfa407ad55" alt="semantic result 1" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/dfc5849d-f6ef-43c2-b6f7-497190a356a4" alt="semantic result 2" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/7a6399bc-2829-457d-9d48-a09b452d06f9" alt="semantic result 3" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/53c0e89d-c6fe-4732-968b-f6b099e2b5f2" alt="semantic results 4" width="400"/></td>
+  </tr>
+</table>
+
