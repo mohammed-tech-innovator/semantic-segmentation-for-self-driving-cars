@@ -15,7 +15,9 @@ Finally, a convolutional layer with the number of output features equal to the n
 The virtual KITTI dataset, generated using the Unity game engine, was employed for model training and testing. This dataset comprises photographs extracted from 50 high-resolution videos, captured across five distinct virtual worlds under varying weather and lighting conditions. Designed to facilitate training and evaluation of models for diverse computer vision tasks, including semantic segmentation, the dataset offers a rich collection of images showcasing different perspectives and weather effects of identical scenes.
 
 # Results
-
+- Avg test accuracy : 96.64%
+- Avg test IoU : 86.14%
+- Here're some results samples :
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/96c6dd82-8fdd-4224-8197-25bfa407ad55" alt="semantic result 1" width="400"/></td>
